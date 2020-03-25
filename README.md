@@ -35,4 +35,5 @@ BlockChain---EohJinCoin
 1. コインの移動をtranaction に含めてhash に適用した。  
 2. コインの基本を実装。
 <hr/>
+
 *nonceによる証明でminingに対する補償が行われるように変える必要がある。*
